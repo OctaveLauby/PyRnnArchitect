@@ -1,0 +1,1 @@
+{"cls_name": "MinMaxScaler", "kwargs": {"scale_": [0.00193050189409405], "data_min_": [104.0], "copy": true, "n_samples_seen_": 144, "data_range_": [518.0], "data_max_": [622.0], "min_": [-0.20077219605445862], "feature_range": [0, 1]}, "params": {"copy": true, "feature_range": [0, 1]}}
